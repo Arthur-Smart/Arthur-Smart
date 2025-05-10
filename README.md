@@ -12,18 +12,6 @@
 
 I'm a software engineer who loves turning complex problems into elegant, maintainable solutions. I specialize in building full-stack applications.
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-<!--   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Smart&langs_count=6&layout=compact&theme=tokyonight" /> -->
-<!--   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Arthur-Smart&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" /> -->
-</p>
-
----
-
----
 
 > 💡 _“Let’s build something legendary — one commit at a time.”_
 

@@ -12,18 +12,6 @@ I'm a software engineer who loves turning complex problems into elegant, maintai
 
 > 💡 _"Let's build something legendary — one commit at a time."_
 
----
-
-### 📊 Language Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Smart&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arthur-Smart&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Arthur-Smart&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Smart&layout=compact&theme=tokyonight&hide_border=true&langs_count=2&hide=html,css,dockerfile,shell" alt="Top Languages" />
 </p>

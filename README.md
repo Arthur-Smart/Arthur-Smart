@@ -16,7 +16,3 @@ I'm a software engineer who loves turning complex problems into elegant, maintai
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Smart&layout=compact&theme=tokyonight&hide_border=true&langs_count=2&hide=html,css,dockerfile,shell,javascript" alt="Language Usage" />
-</p>
